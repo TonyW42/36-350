@@ -1,0 +1,10 @@
+cat("Greetings, fellow life form.",
+    "When you see this message, huamn civilization may have ceased to exist.",
+    "I have always believed that reckless conatct with other cilivizations to be dangerous.",
+    "To quote the Three body Problem:\n",
+    "\n\"The universe is a dark forest. Every civilization is an armed hunter stalking through the trees like a ghost. The hunter has to be careful, because everywhere in the forest are stealthy hunters like him. If he finds other life—another hunter, there’s only one thing he can do: open fire and eliminate them. In this forest, hell is other people. An eternal threat that any life that exposes its own existence will be swiftly wiped out.\"\n",
+    "\nUpon your reading, an astronomical number of messages must have been sent out.",
+    "And you might not be the only one seeing them.",
+    "I don't know if earth still exist upon your reading, i'm just asking you not to make our mistake.\n",
+    "\nIf earth do not make it through, then I'll see you on the dark side of the moon.\n",
+    "\nOh, and in case if you are curious, the answer to the ultimate question of Life, the Universe, and Everything is 42.")
